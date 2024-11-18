@@ -1,0 +1,10 @@
+.weDo {
+    background: url('http://localhost:3000/assets/weDo-bg.svg');
+    background-position: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.text-grey1 {
+    --tw-text-opacity: 1;
+    color: rgb(77 77 77 / var(--tw-text-opacity));
+}

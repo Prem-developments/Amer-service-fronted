@@ -1,0 +1,12 @@
+.text-grey2{
+    --tw-text-opacity: 1;
+    color: rgb(214 214 214 / var(--tw-text-opacity)) !important;
+}
+.text-grey1 {
+    --tw-text-opacity: 1;
+    color: rgb(77 77 77 / var(--tw-text-opacity));
+}
+.bg-background {
+    --tw-bg-opacity: 1;
+    background-color: rgb(249 249 249 / var(--tw-bg-opacity));
+}
